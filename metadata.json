@@ -1,0 +1,6 @@
+{
+  "name": "Кофейный сомелье",
+  "description": "AI-ассистент обжарщика кофе для подбора сортов, помола, оборудования и кофейной подписки",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

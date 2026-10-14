@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-display {
+    font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+}
